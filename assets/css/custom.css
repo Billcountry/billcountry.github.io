@@ -1,0 +1,13 @@
+.site-face{
+    height: auto;
+    width: 160px;
+    border-radius: 50%;
+    filter: grayscale(40%);
+    cursor: pointer;
+}
+
+.site-face:hover{
+    transform: rotate(15deg);
+    filter: grayscale(0%);
+    transition: transform 1s, filter 1s;
+}
