@@ -237,23 +237,23 @@ sup, sub {
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%); }
   .header .site-title {
-    font-size: 50px;
+    font-size: 40px;
     display: block;
     line-height: 1;
     color: #FFF; }
     @media only screen and (min-width: 768px) {
       .header .site-title {
         margin: 0;
-        font-size: 76px; } }
+        font-size: 60px; } }
   .header .site-description {
-    font-size: 20px;
+    font-size: 18px;
     display: block;
     line-height: 1;
     color: #FFF;
     margin-top: 10px; }
     @media only screen and (min-width: 768px) {
       .header .site-description {
-        font-size: 34px; } }
+        font-size: 30px; } }
 
 .header-links {
   margin: 10px; }
